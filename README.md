@@ -17,6 +17,7 @@ This Fluter app project can be used where users can view and add products along 
 - Combines product options (like size and color) efficiently to generate variants.
 - Intuitive user interface for easy navigation and interaction.
 - Has theming,set to system Theme mode.
+- Build app split per abi,Install one compatible with your device,if one fails try another
 
 
 
